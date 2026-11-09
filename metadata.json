@@ -1,0 +1,6 @@
+{
+  "name": "Aya OS Tablet Edition",
+  "description": "ChromeOS-inspired desktop environment launcher for Android tablets with floating windows, taskbar shelf, Everything launcher drawer, terminal, file manager, and web browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
